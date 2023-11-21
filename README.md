@@ -1,2 +1,5 @@
-# DigitalTwins
-Project Programming &amp; Software development
+
+# DIGITAL TWINS
+
+Repository for Digital Twins
+
